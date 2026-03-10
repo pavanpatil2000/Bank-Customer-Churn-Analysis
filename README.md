@@ -1,6 +1,8 @@
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-data%20visualization-yellow)
 ![SQL](https://img.shields.io/badge/SQL-data%20analysis-blue)
 ![Excel](https://img.shields.io/badge/Excel-data%20cleaning-green)
+
 
 # Bank Customer Churn Analysis
 
