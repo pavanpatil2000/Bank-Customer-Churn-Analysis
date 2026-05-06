@@ -24,7 +24,7 @@ The business wants to:
 ---
 
 ## 📂 Dataset
-- Source: Kaggle (Bank Customer Churn Dataset)
+- Source: Retail transaction dataset | Domain: E-commerce & Retail
 - Format: Excel / CSV
 - Records: 10,000+ customers
 
